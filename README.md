@@ -136,13 +136,6 @@ Arunachala College of Engineering for Women · CGPA: 8.5
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Fasee9831/ZINGYBYTE-ai-assistant">ZingyByte AI — Smart Serve</a></h3>
-      <p>Local AI-powered food assistant using Ollama and LangChain. Grounded menu retrieval, streaming responses, and order tracking with a modern UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      </p>
     </td>
   </tr>
 </table>
