@@ -14,7 +14,7 @@
 
 ### About Me
 
-Final-year B.Tech student in **Artificial Intelligence & Data Science** at Arunachala College of Engineering for Women (CGPA: 8.5). I build real-world applications across Machine Learning, NLP, Computer Vision, and Data Analytics — from sentiment analysis dashboards and spam detection systems to AI-powered chatbot assistants and interactive data visualizations.
+ B.Tech Graduate in **Artificial Intelligence & Data Science** at Arunachala College of Engineering for Women (CGPA: 8.5). I build real-world applications across Machine Learning, NLP, Computer Vision, and Data Analytics — from sentiment analysis dashboards and spam detection systems to AI-powered chatbot assistants and interactive data visualizations.
 
 I've gained hands-on industry experience through internships in **Data Analytics**, **Web Development**, and **UI/UX Design**, working with real datasets, building production front-ends, and designing user interfaces for consumer applications.
 
