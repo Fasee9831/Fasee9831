@@ -136,6 +136,15 @@ Arunachala College of Engineering for Women · CGPA: 8.5
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Fasee9831/ABC-Institute-Student-Analytics-Dashboard">Student Analytics Dashboard</a></h3>
+      <p>Executive Power BI dashboard analyzing ₹6.88M revenue, enrollment seasonality, 772 students, and certification throughput for ABC Institute with DAX KPIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-00758F?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Analytics-2979FF?style=flat-square&logoColor=white" />
+        &nbsp;
+        <a href="https://fasee9831.github.io/ABC-Institute-Student-Analytics-Dashboard/">Live Demo ↗</a>
+      </p>
     </td>
   </tr>
 </table>
